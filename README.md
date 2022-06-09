@@ -11,6 +11,9 @@ In this project I recreated the login screen of the League of Legends game, I ac
 - CSS
 - JavaScript
 
+#### 🔹 Project Layout:
+https://betafontes.github.io/login-screen-lol/
+
 ![image](https://user-images.githubusercontent.com/70981960/172938766-5fbce8fe-8973-4837-a8b1-16f007a3c37b.png)
 
 
