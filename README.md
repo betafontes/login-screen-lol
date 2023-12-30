@@ -1,20 +1,40 @@
-# League of Legends login screen!
+<h1 align="center">Tela de Login League of Legends 🎮</h1>
 
-#
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-#### 🔹 About this Project:
+<br>
 
-In this project I recreated the login screen of the League of Legends game, I acquired the knowledge in this project in a YouTube video on the Dev Manual channel
+## 🚀 Tecnologias
 
-#### 🔹 Technologies Used:
+Esse repositório contém essas tais tecnologias :
+
 - HTML
 - CSS
 - JavaScript
 
-#### 🔹 Project Layout:
-https://betafontes.github.io/login-screen-lol/
+## 💻 Projeto
+
+Neste projeto eu recriei a tela de login do jogo League of Legends, adquiri o conhecimentos neste projeto através do canal do Yotube Manual do Dev
+
+## 🖼️ Layout
 
 ![image](https://user-images.githubusercontent.com/70981960/172938766-5fbce8fe-8973-4837-a8b1-16f007a3c37b.png)
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+Feito com ♥ by betafontes :wave: 
 
 
 
